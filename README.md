@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is MHG and I'm a back-end dev.</h2>
+<h2 align="left">Hi 👋! My name is MHG and I'm a Data Engineer.</h2>
 
 ###
 
