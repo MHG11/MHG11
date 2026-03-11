@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've been in the technology field for 4 years,<br> I started in the data area and I'm currently a data engineer.
+I've been in the technology field for 4 years. <br> Currently, I'm a data engineer specializing in Azure.
 
 
 ## 🌐 Socials:
